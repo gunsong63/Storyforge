@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.*?>
+<?import javafx.scene.layout.*?>
+
+<VBox xmlns="http://javafx.com/javafx/11.0.1" xmlns:fx="http://javafx.com/fxml/1" fx:id="Vbox" fx:controller="com.larsjacobsen.factstore.MainWindowUIController">
+      <Button mnemonicParsing="false" text="Button" fx:id="Button"/>
+      <Label text="Label" fx:id="Label"/>
+</VBox>
